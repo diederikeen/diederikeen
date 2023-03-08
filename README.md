@@ -20,32 +20,10 @@ This is the stack I'm most comfortable with but I'm always open to try new thing
 
 ### 💼 Side project
 
-On the side I'm working on a fitnessapplication. This is build with Typescript, NextJS, StitchesJS and RadixUI. Once I have the time I'll create a GH board for it to keep track of future features and or bugs
+On the side I'm working on a fitnessapplication. This is build with Typescript, NextJS, StitchesJS and RadixUI. You can keep track of the tickets and features on the board [here](https://github.com/users/diederikeen/projects/1/views/1)
 
 ####  _Feature list_
 
-##### Weight tracker
-
-- [x] Add body weight
-- [x] Edit body weight record
-- [x] Delete body weight record
-- [ ] Filter amount of records (v0.2)
-- [ ] Add note to weight record (v0.2)
-
-
-##### Exercise library
-
-- [x] Create folders
-- [x] Create exercise
-- [ ] Edit folders
-- [ ] Folder detail page
-- [ ] Edit exercises
-- [ ] Exercise detail page
-
-
-##### Workout page
-
-- [ ] Start workout
-- [ ] Review workout
-- [ ] Add exercise to workout
-- [ ] Create workout routines
+- Weight tracker
+- Exercise library
+- Workout page
