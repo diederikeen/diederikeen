@@ -15,6 +15,9 @@ This is the stack I'm most comfortable with but I'm always open to try new thing
 - StitchesJS
 - GraphQL
 - ExpressJS
+- Prisma
+- Supabase
+- TRCP
 
 ---
 
